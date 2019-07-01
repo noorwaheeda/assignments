@@ -41,6 +41,12 @@ table, th, td {
 		<td bgcolor = "#FFB6C1">77</td>
 		<td bgcolor = "#FFB6C1">165</td>
 	</tr>
+	<tr>
+		<td bgcolor = "#D21404">wahee</td>
+		<td bgcolor = "#FFB6C1">90</td>
+		<td bgcolor = "#FFB6C1">70</td>
+		<td bgcolor = "#FFB6C1">160</td>
+	</tr>
 </table>
 
 </body>
